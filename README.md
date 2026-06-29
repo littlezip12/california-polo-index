@@ -1,5 +1,5 @@
-# California Polo Index — 14U Pages
+# California Polo Index — Club Pages
 
-Upload all files to the root of the GitHub Pages repository.
+Upload all files to the root of your GitHub Pages repo.
 
-New: sports-style branding, 14U Boys page, team pages, latest tournament record only, best win/closest match, sponsor-ready modules.
+Added club directory and one club page per tracked club. No home-pool field.
