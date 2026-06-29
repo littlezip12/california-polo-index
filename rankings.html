@@ -1,20 +1,18 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <title>California Polo Index</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+</head><body>
 
 <header class="site-header">
   <nav class="nav">
     <a class="brand" href="index.html"><span class="logo">CPI</span><span>California Polo Index</span></a>
     <div class="nav-links">
+      <a href="14u-boys.html">14U Boys</a>
       <a href="rankings.html">Rankings</a>
       <a href="methodology.html">Methodology</a>
       <a href="data/rankings.json">Data</a>
@@ -25,7 +23,7 @@
     <div>
       <p class="kicker">Full rankings</p>
       <h1>14U Boys CPI rankings.</h1>
-      <p>Search, filter, and review current team rankings, movement, records, and best wins.</p>
+      <p>Search and review current team rankings, movement, records, and best wins.</p>
     </div>
     <aside class="hero-panel">
       <h2>Ranking table</h2>
@@ -37,25 +35,18 @@
 <main>
   <section class="panel">
     <div class="table-tools">
-      <input id="search" class="search" placeholder="Search team or division…">
-      <select id="division" class="select"><option value="all">All divisions</option></select>
+      <input id="search" class="search" placeholder="Search team…">
       <span id="count" class="badge">Loading…</span>
     </div>
     <div class="table-wrap">
       <table>
-        <thead>
-          <tr>
-            <th>Rank</th><th>Team</th><th>CPI</th><th>Move</th><th>Pre</th><th>Record</th><th>SF Record</th><th>Best SF Win</th><th>Division</th>
-          </tr>
-        </thead>
+        <thead><tr><th>Rank</th><th>Team</th><th>CPI</th><th>Move</th><th>Pre</th><th>Record</th><th>SF Record</th><th>Best SF Win</th></tr></thead>
         <tbody id="rankingsBody"></tbody>
       </table>
     </div>
   </section>
 </main>
 
-<footer class="footer">
-  California Polo Index is independent and unofficial. Rankings are based on available tournament results and will improve as more verified data is added.
-</footer>
-<script src="app.js"></script>
+<footer class="footer">California Polo Index is independent and unofficial. Rankings are based on available tournament results and will improve as more verified data is added.</footer>
+<script src="data.js"></script><script src="app.js"></script>
 </body></html>
