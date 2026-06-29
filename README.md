@@ -1,13 +1,5 @@
-# California Polo Index
+# California Polo Index — 14U Pages
 
-Static GitHub Pages site.
+Upload all files to the root of the GitHub Pages repository.
 
-## What changed in v2
-- Rankings load from embedded `data.js` to avoid GitHub Pages fetch/path issues.
-- Removed Division filter/column from public rankings.
-- Added age-group landing structure.
-- Added sponsor/revenue placeholder module.
-- Added `data/logo_map.csv` for future verified logos.
-
-## Updating GitHub
-Upload/replace all files in this folder at the root of your repository.
+New: sports-style branding, 14U Boys page, team pages, latest tournament record only, best win/closest match, sponsor-ready modules.
