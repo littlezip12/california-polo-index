@@ -1,14 +1,21 @@
-# California Polo Index v2 Major Push
+# California Polo Index v2 Clean Rebuild
+
+This is a clean rebuild. Upload all files and folders inside this package to the GitHub repository root.
 
 Included:
-- Local generated club badges for every club in `assets/logos/`
-- Logos/badges render on homepage, rankings, team pages, and club pages
-- Club-color hero backdrops
-- Clean rankings table: no overall record, no division filter
-- Best win formatting fixed: `SD Dons A (10–5)`
-- Team pages redesigned around Latest Tournament
-- Club pages redesigned around ranked teams
-- Sponsor-ready module
-- `data/logo_map.csv` tracks which generated badges should later be replaced by official logos
+- Fully dynamic homepage cards
+- Fully dynamic rankings table
+- Dynamic team pages
+- Dynamic club pages
+- Local generated club badges for every club
+- Club-color hero themes
+- No overall record
+- No division filters/columns
+- Best win formatting like `SD Dons A (10–5)`
+- Data files in `/data`
+- Local assets in `/assets/logos`
 
-Upload all files/folders inside this package to the GitHub repo root and commit.
+To update logos later:
+1. Replace the relevant SVG in `assets/logos/`.
+2. Keep the same filename, e.g. `assets/logos/lamorinda.svg`.
+3. Commit the change.
