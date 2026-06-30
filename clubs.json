@@ -1114,9 +1114,9 @@
         "latestTournamentRecord": "2-4",
         "bestWinClean": "North Irvine A (15\u20138)",
         "gamesLatest": 6,
-        "primaryColor": "#B91C1C",
-        "secondaryColor": "#111827",
-        "logo": "assets/logos/lamorinda.svg",
+        "primaryColor": "#072B57",
+        "secondaryColor": "#FFC72C",
+        "logo": "assets/logos/lamorinda.png",
         "teamPage": "team.html?team=lamorinda-a",
         "clubPage": "club.html?club=lamorinda"
       },
@@ -1135,9 +1135,9 @@
         "latestTournamentRecord": "2-3",
         "bestWinClean": "South Coast B (13\u20137)",
         "gamesLatest": 5,
-        "primaryColor": "#B91C1C",
-        "secondaryColor": "#111827",
-        "logo": "assets/logos/lamorinda.svg",
+        "primaryColor": "#072B57",
+        "secondaryColor": "#FFC72C",
+        "logo": "assets/logos/lamorinda.png",
         "teamPage": "team.html?team=lamorinda-b",
         "clubPage": "club.html?club=lamorinda"
       },
@@ -1156,16 +1156,16 @@
         "latestTournamentRecord": "\u2014",
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
-        "primaryColor": "#B91C1C",
-        "secondaryColor": "#111827",
-        "logo": "assets/logos/lamorinda.svg",
+        "primaryColor": "#072B57",
+        "secondaryColor": "#FFC72C",
+        "logo": "assets/logos/lamorinda.png",
         "teamPage": "team.html?team=lamorinda-c",
         "clubPage": "club.html?club=lamorinda"
       }
     ],
-    "primaryColor": "#B91C1C",
-    "secondaryColor": "#111827",
-    "logo": "assets/logos/lamorinda.svg",
+    "primaryColor": "#072B57",
+    "secondaryColor": "#FFC72C",
+    "logo": "assets/logos/lamorinda.png",
     "clubPage": "club.html?club=lamorinda"
   },
   {
