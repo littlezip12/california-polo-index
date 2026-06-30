@@ -19,11 +19,10 @@
         "postCPI": 1810.8,
         "cpiChange": 28.2,
         "latestTournamentRecord": "3-2",
-        "bestWin": "Patriot B (pre #27) 14-10",
-        "gamesLatest": 5,
         "bestWinClean": "Patriot B14-10",
-        "teamPage": "teams/680-a.html",
-        "clubPage": "clubs/680.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=680-a",
+        "clubPage": "club.html?club=680"
       },
       {
         "postRank": 50,
@@ -38,11 +37,10 @@
         "postCPI": 1677.9,
         "cpiChange": 22.2,
         "latestTournamentRecord": "3-2",
-        "bestWin": "South Coast B (pre #55) 10-6",
-        "gamesLatest": 5,
         "bestWinClean": "South Coast B10-6",
-        "teamPage": "teams/680-b.html",
-        "clubPage": "clubs/680.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=680-b",
+        "clubPage": "club.html?club=680"
       },
       {
         "postRank": 76,
@@ -57,13 +55,13 @@
         "postCPI": 1527.9,
         "cpiChange": -59.2,
         "latestTournamentRecord": "1-4",
-        "bestWin": "North Irvine B (pre #65) 21-20",
-        "gamesLatest": 5,
         "bestWinClean": "North Irvine B21-20",
-        "teamPage": "teams/680-c.html",
-        "clubPage": "clubs/680.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=680-c",
+        "clubPage": "club.html?club=680"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=680"
   },
   {
     "club": "908",
@@ -85,13 +83,13 @@
         "postCPI": 1981.6,
         "cpiChange": 29.1,
         "latestTournamentRecord": "4-2",
-        "bestWin": "San Diego Shores A (pre #10) 10.3-10.1",
-        "gamesLatest": 6,
         "bestWinClean": "San Diego Shores A10.3-10.1",
-        "teamPage": "teams/908.html",
-        "clubPage": "clubs/908.html"
+        "gamesLatest": 6,
+        "teamPage": "team.html?team=908",
+        "clubPage": "club.html?club=908"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=908"
   },
   {
     "club": "Alameda",
@@ -113,13 +111,13 @@
         "postCPI": 1683.3,
         "cpiChange": 8.9,
         "latestTournamentRecord": "3-2",
-        "bestWin": "Lamorinda B (pre #52) 13-11",
-        "gamesLatest": 5,
         "bestWinClean": "Lamorinda B13-11",
-        "teamPage": "teams/alameda-a.html",
-        "clubPage": "clubs/alameda.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=alameda-a",
+        "clubPage": "club.html?club=alameda"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=alameda"
   },
   {
     "club": "American River",
@@ -141,11 +139,10 @@
         "postCPI": 1671.9,
         "cpiChange": -48.1,
         "latestTournamentRecord": "1-4",
-        "bestWin": "San Francisco A (pre #49) 11-5",
-        "gamesLatest": 5,
         "bestWinClean": "San Francisco A11-5",
-        "teamPage": "teams/american-river-a.html",
-        "clubPage": "clubs/american-river.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=american-river-a",
+        "clubPage": "club.html?club=american-river"
       },
       {
         "postRank": 97,
@@ -160,13 +157,13 @@
         "postCPI": 1474.3,
         "cpiChange": -43.4,
         "latestTournamentRecord": "1-4",
-        "bestWin": "North Irvine B (pre #65) 8-6",
-        "gamesLatest": 5,
         "bestWinClean": "North Irvine B8-6",
-        "teamPage": "teams/american-river-b.html",
-        "clubPage": "clubs/american-river.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=american-river-b",
+        "clubPage": "club.html?club=american-river"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=american-river"
   },
   {
     "club": "BOA",
@@ -188,13 +185,13 @@
         "postCPI": 1462.5,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/boa-a.html",
-        "clubPage": "clubs/boa.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=boa-a",
+        "clubPage": "club.html?club=boa"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=boa"
   },
   {
     "club": "Back Bay",
@@ -216,13 +213,13 @@
         "postCPI": 1794.2,
         "cpiChange": 25.4,
         "latestTournamentRecord": "3-2",
-        "bestWin": "La Jolla United B (pre #39) 23-15",
-        "gamesLatest": 5,
         "bestWinClean": "La Jolla United B23-15",
-        "teamPage": "teams/back-bay-a.html",
-        "clubPage": "clubs/back-bay.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=back-bay-a",
+        "clubPage": "club.html?club=back-bay"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=back-bay"
   },
   {
     "club": "Brea Olinda Gold",
@@ -244,13 +241,13 @@
         "postCPI": 1506.5,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/brea-olinda-gold.html",
-        "clubPage": "clubs/brea-olinda-gold.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=brea-olinda-gold",
+        "clubPage": "club.html?club=brea-olinda-gold"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=brea-olinda-gold"
   },
   {
     "club": "Burlingame",
@@ -272,13 +269,13 @@
         "postCPI": 1476.4,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/burlingame-a.html",
-        "clubPage": "clubs/burlingame.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=burlingame-a",
+        "clubPage": "club.html?club=burlingame"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=burlingame"
   },
   {
     "club": "CC United",
@@ -300,11 +297,10 @@
         "postCPI": 1897.0,
         "cpiChange": 2.6,
         "latestTournamentRecord": "3-3",
-        "bestWin": "Vanguard A (pre #9) 8.4-8.3",
-        "gamesLatest": 6,
         "bestWinClean": "Vanguard A8.4-8.3",
-        "teamPage": "teams/cc-united-a.html",
-        "clubPage": "clubs/cc-united.html"
+        "gamesLatest": 6,
+        "teamPage": "team.html?team=cc-united-a",
+        "clubPage": "club.html?club=cc-united"
       },
       {
         "postRank": 35,
@@ -319,11 +315,10 @@
         "postCPI": 1788.9,
         "cpiChange": 2.8,
         "latestTournamentRecord": "3-2",
-        "bestWin": "Santa Barbara A (pre #31) 15.3-15.2",
-        "gamesLatest": 5,
         "bestWinClean": "Santa Barbara A15.3-15.2",
-        "teamPage": "teams/cc-united-b.html",
-        "clubPage": "clubs/cc-united.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=cc-united-b",
+        "clubPage": "club.html?club=cc-united"
       },
       {
         "postRank": 93,
@@ -338,13 +333,13 @@
         "postCPI": 1477.5,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/cc-united-c.html",
-        "clubPage": "clubs/cc-united.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=cc-united-c",
+        "clubPage": "club.html?club=cc-united"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=cc-united"
   },
   {
     "club": "CDM",
@@ -366,13 +361,13 @@
         "postCPI": 1894.0,
         "cpiChange": -17.6,
         "latestTournamentRecord": "2-3",
-        "bestWin": "Pegasus A (pre #22) 9-5",
-        "gamesLatest": 5,
         "bestWinClean": "Pegasus A9-5",
-        "teamPage": "teams/cdm-a.html",
-        "clubPage": "clubs/cdm.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=cdm-a",
+        "clubPage": "club.html?club=cdm"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=cdm"
   },
   {
     "club": "CIU",
@@ -394,13 +389,13 @@
         "postCPI": 1992.6,
         "cpiChange": 42.6,
         "latestTournamentRecord": "3-2",
-        "bestWin": "Patriot A (pre #2) 15-8",
-        "gamesLatest": 5,
         "bestWinClean": "Patriot A15-8",
-        "teamPage": "teams/ciu-a.html",
-        "clubPage": "clubs/ciu.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=ciu-a",
+        "clubPage": "club.html?club=ciu"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=ciu"
   },
   {
     "club": "CT Premier",
@@ -422,13 +417,13 @@
         "postCPI": 1492.0,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/ct-premier-a.html",
-        "clubPage": "clubs/ct-premier.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=ct-premier-a",
+        "clubPage": "club.html?club=ct-premier"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=ct-premier"
   },
   {
     "club": "CVU",
@@ -450,13 +445,13 @@
         "postCPI": 1594.1,
         "cpiChange": -5.9,
         "latestTournamentRecord": "2-3",
-        "bestWin": "Diablo Alliance B (pre #58) 15-11",
-        "gamesLatest": 5,
         "bestWinClean": "Diablo Alliance B15-11",
-        "teamPage": "teams/cvu-a.html",
-        "clubPage": "clubs/cvu.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=cvu-a",
+        "clubPage": "club.html?club=cvu"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=cvu"
   },
   {
     "club": "Clovis Red",
@@ -478,13 +473,13 @@
         "postCPI": 1654.9,
         "cpiChange": -50.1,
         "latestTournamentRecord": "1-4",
-        "bestWin": "Patriot B (pre #27) 10-9",
-        "gamesLatest": 5,
         "bestWinClean": "Patriot B10-9",
-        "teamPage": "teams/clovis-red.html",
-        "clubPage": "clubs/clovis-red.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=clovis-red",
+        "clubPage": "club.html?club=clovis-red"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=clovis-red"
   },
   {
     "club": "Commerce",
@@ -506,13 +501,13 @@
         "postCPI": 1953.0,
         "cpiChange": 8.0,
         "latestTournamentRecord": "3-2",
-        "bestWin": "North Irvine A (pre #17) 9-6",
-        "gamesLatest": 5,
         "bestWinClean": "North Irvine A9-6",
-        "teamPage": "teams/commerce-a.html",
-        "clubPage": "clubs/commerce.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=commerce-a",
+        "clubPage": "club.html?club=commerce"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=commerce"
   },
   {
     "club": "Davis",
@@ -534,13 +529,13 @@
         "postCPI": 1801.3,
         "cpiChange": -56.5,
         "latestTournamentRecord": "1-4",
-        "bestWin": "SOCAL A (pre #15) 8-6",
-        "gamesLatest": 5,
         "bestWinClean": "SOCAL A8-6",
-        "teamPage": "teams/davis-a.html",
-        "clubPage": "clubs/davis.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=davis-a",
+        "clubPage": "club.html?club=davis"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=davis"
   },
   {
     "club": "Devils Gate",
@@ -562,13 +557,13 @@
         "postCPI": 1812.4,
         "cpiChange": 86.9,
         "latestTournamentRecord": "4-1",
-        "bestWin": "Pride A (pre #28) 10-6",
-        "gamesLatest": 5,
         "bestWinClean": "Pride A10-6",
-        "teamPage": "teams/devils-gate-a.html",
-        "clubPage": "clubs/devils-gate.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=devils-gate-a",
+        "clubPage": "club.html?club=devils-gate"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=devils-gate"
   },
   {
     "club": "Diablo Alliance",
@@ -590,11 +585,10 @@
         "postCPI": 1886.3,
         "cpiChange": -19.9,
         "latestTournamentRecord": "2-3",
-        "bestWin": "SOCAL A (pre #15) 21-6",
-        "gamesLatest": 5,
         "bestWinClean": "SOCAL A21-6",
-        "teamPage": "teams/diablo-alliance-a.html",
-        "clubPage": "clubs/diablo-alliance.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=diablo-alliance-a",
+        "clubPage": "club.html?club=diablo-alliance"
       },
       {
         "postRank": 60,
@@ -609,13 +603,13 @@
         "postCPI": 1601.1,
         "cpiChange": -21.0,
         "latestTournamentRecord": "2-3",
-        "bestWin": "Titans A (pre #56) 13-9",
-        "gamesLatest": 5,
         "bestWinClean": "Titans A13-9",
-        "teamPage": "teams/diablo-alliance-b.html",
-        "clubPage": "clubs/diablo-alliance.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=diablo-alliance-b",
+        "clubPage": "club.html?club=diablo-alliance"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=diablo-alliance"
   },
   {
     "club": "Foothill Club",
@@ -637,13 +631,13 @@
         "postCPI": 1755.4,
         "cpiChange": -12.7,
         "latestTournamentRecord": "2-3",
-        "bestWin": "Clovis Red (pre #46) 12-5",
-        "gamesLatest": 5,
         "bestWinClean": "Clovis Red12-5",
-        "teamPage": "teams/foothill-club-a.html",
-        "clubPage": "clubs/foothill-club.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=foothill-club-a",
+        "clubPage": "club.html?club=foothill-club"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=foothill-club"
   },
   {
     "club": "Gold Coast",
@@ -665,13 +659,13 @@
         "postCPI": 1518.7,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/gold-coast-a.html",
-        "clubPage": "clubs/gold-coast.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=gold-coast-a",
+        "clubPage": "club.html?club=gold-coast"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=gold-coast"
   },
   {
     "club": "Hieland",
@@ -693,13 +687,13 @@
         "postCPI": 1531.2,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/hieland-a.html",
-        "clubPage": "clubs/hieland.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=hieland-a",
+        "clubPage": "club.html?club=hieland"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=hieland"
   },
   {
     "club": "Honolulu Blue",
@@ -721,13 +715,13 @@
         "postCPI": 1464.9,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/honolulu-blue.html",
-        "clubPage": "clubs/honolulu-blue.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=honolulu-blue",
+        "clubPage": "club.html?club=honolulu-blue"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=honolulu-blue"
   },
   {
     "club": "Honolulu Green",
@@ -749,13 +743,13 @@
         "postCPI": 1472.9,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/honolulu-green-a.html",
-        "clubPage": "clubs/honolulu-green.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=honolulu-green-a",
+        "clubPage": "club.html?club=honolulu-green"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=honolulu-green"
   },
   {
     "club": "Kingsburg",
@@ -777,13 +771,13 @@
         "postCPI": 1689.5,
         "cpiChange": -0.5,
         "latestTournamentRecord": "2-3",
-        "bestWin": "American River A (pre #43) 16-5",
-        "gamesLatest": 5,
         "bestWinClean": "American River A16-5",
-        "teamPage": "teams/kingsburg-a.html",
-        "clubPage": "clubs/kingsburg.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=kingsburg-a",
+        "clubPage": "club.html?club=kingsburg"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=kingsburg"
   },
   {
     "club": "LA Premier",
@@ -805,13 +799,13 @@
         "postCPI": 2037.7,
         "cpiChange": 43.0,
         "latestTournamentRecord": "4-2",
-        "bestWin": "Patriot A (pre #2) 6.5-6.4",
-        "gamesLatest": 6,
         "bestWinClean": "Patriot A6.5-6.4",
-        "teamPage": "teams/la-premier-a.html",
-        "clubPage": "clubs/la-premier.html"
+        "gamesLatest": 6,
+        "teamPage": "team.html?team=la-premier-a",
+        "clubPage": "club.html?club=la-premier"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=la-premier"
   },
   {
     "club": "LAWPC",
@@ -833,13 +827,13 @@
         "postCPI": 1768.7,
         "cpiChange": 46.8,
         "latestTournamentRecord": "4-1",
-        "bestWin": "Vegas Renegades A (pre #51) 9-7",
-        "gamesLatest": 5,
         "bestWinClean": "Vegas Renegades A9-7",
-        "teamPage": "teams/lawpc-a.html",
-        "clubPage": "clubs/lawpc.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=lawpc-a",
+        "clubPage": "club.html?club=lawpc"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=lawpc"
   },
   {
     "club": "La Jolla United",
@@ -861,11 +855,10 @@
         "postCPI": 2161.0,
         "cpiChange": 81.9,
         "latestTournamentRecord": "5-0",
-        "bestWin": "Mission A (pre #4) 12-9",
-        "gamesLatest": 5,
         "bestWinClean": "Mission A12-9",
-        "teamPage": "teams/la-jolla-united-a.html",
-        "clubPage": "clubs/la-jolla-united.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=la-jolla-united-a",
+        "clubPage": "club.html?club=la-jolla-united"
       },
       {
         "postRank": 41,
@@ -880,13 +873,13 @@
         "postCPI": 1727.4,
         "cpiChange": -27.0,
         "latestTournamentRecord": "2-3",
-        "bestWin": "680 A (pre #33) 10-9",
-        "gamesLatest": 5,
         "bestWinClean": "680 A10-9",
-        "teamPage": "teams/la-jolla-united-b.html",
-        "clubPage": "clubs/la-jolla-united.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=la-jolla-united-b",
+        "clubPage": "club.html?club=la-jolla-united"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=la-jolla-united"
   },
   {
     "club": "Lamorinda",
@@ -908,11 +901,10 @@
         "postCPI": 1920.2,
         "cpiChange": -12.8,
         "latestTournamentRecord": "2-4",
-        "bestWin": "North Irvine A (pre #17) 15-8",
-        "gamesLatest": 6,
         "bestWinClean": "North Irvine A15-8",
-        "teamPage": "teams/lamorinda-a.html",
-        "clubPage": "clubs/lamorinda.html"
+        "gamesLatest": 6,
+        "teamPage": "team.html?team=lamorinda-a",
+        "clubPage": "club.html?club=lamorinda"
       },
       {
         "postRank": 55,
@@ -927,11 +919,10 @@
         "postCPI": 1653.8,
         "cpiChange": -27.1,
         "latestTournamentRecord": "2-3",
-        "bestWin": "South Coast B (pre #55) 13-7",
-        "gamesLatest": 5,
         "bestWinClean": "South Coast B13-7",
-        "teamPage": "teams/lamorinda-b.html",
-        "clubPage": "clubs/lamorinda.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=lamorinda-b",
+        "clubPage": "club.html?club=lamorinda"
       },
       {
         "postRank": 103,
@@ -946,13 +937,13 @@
         "postCPI": 1460.4,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/lamorinda-c.html",
-        "clubPage": "clubs/lamorinda.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=lamorinda-c",
+        "clubPage": "club.html?club=lamorinda"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=lamorinda"
   },
   {
     "club": "Los Alamitos",
@@ -974,13 +965,13 @@
         "postCPI": 1799.0,
         "cpiChange": 19.0,
         "latestTournamentRecord": "3-2",
-        "bestWin": "Newport Beach B (pre #35) 10-8",
-        "gamesLatest": 5,
         "bestWinClean": "Newport Beach B10-8",
-        "teamPage": "teams/los-alamitos-a.html",
-        "clubPage": "clubs/los-alamitos.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=los-alamitos-a",
+        "clubPage": "club.html?club=los-alamitos"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=los-alamitos"
   },
   {
     "club": "Loyola WPC",
@@ -1002,13 +993,13 @@
         "postCPI": 1537.9,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/loyola-wpc-a.html",
-        "clubPage": "clubs/loyola-wpc.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=loyola-wpc-a",
+        "clubPage": "club.html?club=loyola-wpc"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=loyola-wpc"
   },
   {
     "club": "Midpen",
@@ -1030,13 +1021,13 @@
         "postCPI": 1461.7,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/midpen-a.html",
-        "clubPage": "clubs/midpen.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=midpen-a",
+        "clubPage": "club.html?club=midpen"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=midpen"
   },
   {
     "club": "Mission",
@@ -1058,11 +1049,10 @@
         "postCPI": 2068.0,
         "cpiChange": 54.0,
         "latestTournamentRecord": "4-1",
-        "bestWin": "SD Dons A (pre #3) 10-5",
-        "gamesLatest": 5,
         "bestWinClean": "SD Dons A10-5",
-        "teamPage": "teams/mission-a.html",
-        "clubPage": "clubs/mission.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=mission-a",
+        "clubPage": "club.html?club=mission"
       },
       {
         "postRank": 21,
@@ -1077,13 +1067,13 @@
         "postCPI": 1886.9,
         "cpiChange": 53.7,
         "latestTournamentRecord": "4-1",
-        "bestWin": "Santa Barbara A (pre #31) 12-5",
-        "gamesLatest": 5,
         "bestWinClean": "Santa Barbara A12-5",
-        "teamPage": "teams/mission-b.html",
-        "clubPage": "clubs/mission.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=mission-b",
+        "clubPage": "club.html?club=mission"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=mission"
   },
   {
     "club": "Nado",
@@ -1105,13 +1095,13 @@
         "postCPI": 1500.1,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/nado-a.html",
-        "clubPage": "clubs/nado.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=nado-a",
+        "clubPage": "club.html?club=nado"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=nado"
   },
   {
     "club": "Newport Beach",
@@ -1133,11 +1123,10 @@
         "postCPI": 2000.9,
         "cpiChange": 3.4,
         "latestTournamentRecord": "3-3",
-        "bestWin": "Patriot A (pre #2) 8-4",
-        "gamesLatest": 6,
         "bestWinClean": "Patriot A8-4",
-        "teamPage": "teams/newport-beach-a.html",
-        "clubPage": "clubs/newport-beach.html"
+        "gamesLatest": 6,
+        "teamPage": "team.html?team=newport-beach-a",
+        "clubPage": "club.html?club=newport-beach"
       },
       {
         "postRank": 34,
@@ -1152,13 +1141,13 @@
         "postCPI": 1792.1,
         "cpiChange": 19.6,
         "latestTournamentRecord": "3-2",
-        "bestWin": "Santa Barbara A (pre #31) 13-10",
-        "gamesLatest": 5,
         "bestWinClean": "Santa Barbara A13-10",
-        "teamPage": "teams/newport-beach-b.html",
-        "clubPage": "clubs/newport-beach.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=newport-beach-b",
+        "clubPage": "club.html?club=newport-beach"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=newport-beach"
   },
   {
     "club": "NorCal",
@@ -1180,11 +1169,10 @@
         "postCPI": 2076.3,
         "cpiChange": 62.9,
         "latestTournamentRecord": "4-1",
-        "bestWin": "Patriot A (pre #2) 12-6",
-        "gamesLatest": 5,
         "bestWinClean": "Patriot A12-6",
-        "teamPage": "teams/norcal-a.html",
-        "clubPage": "clubs/norcal.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=norcal-a",
+        "clubPage": "club.html?club=norcal"
       },
       {
         "postRank": 58,
@@ -1199,11 +1187,10 @@
         "postCPI": 1618.7,
         "cpiChange": 26.2,
         "latestTournamentRecord": "3-2",
-        "bestWin": "Stanford C (pre #60) 10-4",
-        "gamesLatest": 5,
         "bestWinClean": "Stanford C10-4",
-        "teamPage": "teams/norcal-b.html",
-        "clubPage": "clubs/norcal.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=norcal-b",
+        "clubPage": "club.html?club=norcal"
       },
       {
         "postRank": 80,
@@ -1218,13 +1205,13 @@
         "postCPI": 1512.2,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/norcal-c.html",
-        "clubPage": "clubs/norcal.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=norcal-c",
+        "clubPage": "club.html?club=norcal"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=norcal"
   },
   {
     "club": "North Irvine",
@@ -1246,11 +1233,10 @@
         "postCPI": 1878.0,
         "cpiChange": -30.5,
         "latestTournamentRecord": "2-3",
-        "bestWin": "SOCAL A (pre #15) 10-7",
-        "gamesLatest": 5,
         "bestWinClean": "SOCAL A10-7",
-        "teamPage": "teams/north-irvine-a.html",
-        "clubPage": "clubs/north-irvine.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=north-irvine-a",
+        "clubPage": "club.html?club=north-irvine"
       },
       {
         "postRank": 89,
@@ -1265,13 +1251,13 @@
         "postCPI": 1490.2,
         "cpiChange": -93.7,
         "latestTournamentRecord": "0-5",
-        "bestWin": "",
-        "gamesLatest": 5,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/north-irvine-b.html",
-        "clubPage": "clubs/north-irvine.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=north-irvine-b",
+        "clubPage": "club.html?club=north-irvine"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=north-irvine"
   },
   {
     "club": "Northwest",
@@ -1293,13 +1279,13 @@
         "postCPI": 1695.1,
         "cpiChange": -5.3,
         "latestTournamentRecord": "2-3",
-        "bestWin": "680 A (pre #33) 14-13",
-        "gamesLatest": 5,
         "bestWinClean": "680 A14-13",
-        "teamPage": "teams/northwest-a.html",
-        "clubPage": "clubs/northwest.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=northwest-a",
+        "clubPage": "club.html?club=northwest"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=northwest"
   },
   {
     "club": "OCWPC",
@@ -1321,11 +1307,10 @@
         "postCPI": 1539.6,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/ocwpc-a.html",
-        "clubPage": "clubs/ocwpc.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=ocwpc-a",
+        "clubPage": "club.html?club=ocwpc"
       },
       {
         "postRank": 73,
@@ -1340,13 +1325,13 @@
         "postCPI": 1537.5,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/ocwpc-b.html",
-        "clubPage": "clubs/ocwpc.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=ocwpc-b",
+        "clubPage": "club.html?club=ocwpc"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=ocwpc"
   },
   {
     "club": "ORWP",
@@ -1368,13 +1353,13 @@
         "postCPI": 1500.0,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/orwp-a.html",
-        "clubPage": "clubs/orwp.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=orwp-a",
+        "clubPage": "club.html?club=orwp"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=orwp"
   },
   {
     "club": "OVAC",
@@ -1396,13 +1381,13 @@
         "postCPI": 2006.1,
         "cpiChange": 1.1,
         "latestTournamentRecord": "3-3",
-        "bestWin": "908 (pre #11) 6-4",
-        "gamesLatest": 6,
         "bestWinClean": "9086-4",
-        "teamPage": "teams/ovac-a.html",
-        "clubPage": "clubs/ovac.html"
+        "gamesLatest": 6,
+        "teamPage": "team.html?team=ovac-a",
+        "clubPage": "club.html?club=ovac"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=ovac"
   },
   {
     "club": "PV WPC",
@@ -1424,11 +1409,10 @@
         "postCPI": 1625.4,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/pv-wpc-a.html",
-        "clubPage": "clubs/pv-wpc.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=pv-wpc-a",
+        "clubPage": "club.html?club=pv-wpc"
       },
       {
         "postRank": 83,
@@ -1443,13 +1427,13 @@
         "postCPI": 1504.9,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/pv-wpc-b.html",
-        "clubPage": "clubs/pv-wpc.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=pv-wpc-b",
+        "clubPage": "club.html?club=pv-wpc"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=pv-wpc"
   },
   {
     "club": "Pasadena AC",
@@ -1471,13 +1455,13 @@
         "postCPI": 1545.7,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/pasadena-ac-a.html",
-        "clubPage": "clubs/pasadena-ac.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=pasadena-ac-a",
+        "clubPage": "club.html?club=pasadena-ac"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=pasadena-ac"
   },
   {
     "club": "Patriot",
@@ -1499,11 +1483,10 @@
         "postCPI": 1976.3,
         "cpiChange": -66.2,
         "latestTournamentRecord": "2-4",
-        "bestWin": "Vanguard A (pre #9) 10.3-10.2",
-        "gamesLatest": 6,
         "bestWinClean": "Vanguard A10.3-10.2",
-        "teamPage": "teams/patriot-a.html",
-        "clubPage": "clubs/patriot.html"
+        "gamesLatest": 6,
+        "teamPage": "team.html?team=patriot-a",
+        "clubPage": "club.html?club=patriot"
       },
       {
         "postRank": 28,
@@ -1518,13 +1501,13 @@
         "postCPI": 1842.6,
         "cpiChange": -11.3,
         "latestTournamentRecord": "3-2",
-        "bestWin": "Foothill Club A (pre #37) 12-9",
-        "gamesLatest": 5,
         "bestWinClean": "Foothill Club A12-9",
-        "teamPage": "teams/patriot-b.html",
-        "clubPage": "clubs/patriot.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=patriot-b",
+        "clubPage": "club.html?club=patriot"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=patriot"
   },
   {
     "club": "Patriot Red",
@@ -1546,13 +1529,13 @@
         "postCPI": 1525.5,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/patriot-red.html",
-        "clubPage": "clubs/patriot-red.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=patriot-red",
+        "clubPage": "club.html?club=patriot-red"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=patriot-red"
   },
   {
     "club": "Pegasus",
@@ -1574,13 +1557,13 @@
         "postCPI": 1775.4,
         "cpiChange": -94.6,
         "latestTournamentRecord": "0-5",
-        "bestWin": "",
-        "gamesLatest": 5,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/pegasus-a.html",
-        "clubPage": "clubs/pegasus.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=pegasus-a",
+        "clubPage": "club.html?club=pegasus"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=pegasus"
   },
   {
     "club": "Poway Valley Black",
@@ -1602,13 +1585,13 @@
         "postCPI": 1579.3,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/poway-valley-black.html",
-        "clubPage": "clubs/poway-valley-black.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=poway-valley-black",
+        "clubPage": "club.html?club=poway-valley-black"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=poway-valley-black"
   },
   {
     "club": "Pride",
@@ -1630,11 +1613,10 @@
         "postCPI": 1849.8,
         "cpiChange": 9.5,
         "latestTournamentRecord": "3-2",
-        "bestWin": "Temple City A (pre #30) 15-10",
-        "gamesLatest": 5,
         "bestWinClean": "Temple City A15-10",
-        "teamPage": "teams/pride-a.html",
-        "clubPage": "clubs/pride.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=pride-a",
+        "clubPage": "club.html?club=pride"
       },
       {
         "postRank": 85,
@@ -1649,13 +1631,13 @@
         "postCPI": 1500.2,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/pride-b.html",
-        "clubPage": "clubs/pride.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=pride-b",
+        "clubPage": "club.html?club=pride"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=pride"
   },
   {
     "club": "Rancho Tsunami",
@@ -1677,13 +1659,13 @@
         "postCPI": 1933.1,
         "cpiChange": 78.1,
         "latestTournamentRecord": "5-0",
-        "bestWin": "Shore Aquatics A (pre #23) 11-8",
-        "gamesLatest": 5,
         "bestWinClean": "Shore Aquatics A11-8",
-        "teamPage": "teams/rancho-tsunami-a.html",
-        "clubPage": "clubs/rancho-tsunami.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=rancho-tsunami-a",
+        "clubPage": "club.html?club=rancho-tsunami"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=rancho-tsunami"
   },
   {
     "club": "Riverside",
@@ -1705,13 +1687,13 @@
         "postCPI": 1455.7,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/riverside-a.html",
-        "clubPage": "clubs/riverside.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=riverside-a",
+        "clubPage": "club.html?club=riverside"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=riverside"
   },
   {
     "club": "Rose Bowl",
@@ -1733,13 +1715,13 @@
         "postCPI": 1699.3,
         "cpiChange": -58.2,
         "latestTournamentRecord": "1-4",
-        "bestWin": "SJ Express A (pre #42) 11-6",
-        "gamesLatest": 5,
         "bestWinClean": "SJ Express A11-6",
-        "teamPage": "teams/rose-bowl-a.html",
-        "clubPage": "clubs/rose-bowl.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=rose-bowl-a",
+        "clubPage": "club.html?club=rose-bowl"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=rose-bowl"
   },
   {
     "club": "Route 66 Aquatics",
@@ -1761,13 +1743,13 @@
         "postCPI": 1479.9,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/route-66-aquatics-a.html",
-        "clubPage": "clubs/route-66-aquatics.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=route-66-aquatics-a",
+        "clubPage": "club.html?club=route-66-aquatics"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=route-66-aquatics"
   },
   {
     "club": "SD Dons",
@@ -1789,11 +1771,10 @@
         "postCPI": 2011.0,
         "cpiChange": -6.3,
         "latestTournamentRecord": "3-3",
-        "bestWin": "OVAC A (pre #6) 11-7",
-        "gamesLatest": 6,
         "bestWinClean": "OVAC A11-7",
-        "teamPage": "teams/sd-dons-a.html",
-        "clubPage": "clubs/sd-dons.html"
+        "gamesLatest": 6,
+        "teamPage": "team.html?team=sd-dons-a",
+        "clubPage": "club.html?club=sd-dons"
       },
       {
         "postRank": 65,
@@ -1808,13 +1789,13 @@
         "postCPI": 1571.6,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/sd-dons-b.html",
-        "clubPage": "clubs/sd-dons.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=sd-dons-b",
+        "clubPage": "club.html?club=sd-dons"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=sd-dons"
   },
   {
     "club": "SD ECA",
@@ -1836,13 +1817,13 @@
         "postCPI": 1505.3,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/sd-eca-a.html",
-        "clubPage": "clubs/sd-eca.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=sd-eca-a",
+        "clubPage": "club.html?club=sd-eca"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=sd-eca"
   },
   {
     "club": "SHAQ",
@@ -1864,11 +1845,10 @@
         "postCPI": 1529.1,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/shaq-a.html",
-        "clubPage": "clubs/shaq.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=shaq-a",
+        "clubPage": "club.html?club=shaq"
       },
       {
         "postRank": 84,
@@ -1883,13 +1863,13 @@
         "postCPI": 1500.7,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/shaq-b.html",
-        "clubPage": "clubs/shaq.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=shaq-b",
+        "clubPage": "club.html?club=shaq"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=shaq"
   },
   {
     "club": "SJ Express",
@@ -1911,13 +1891,13 @@
         "postCPI": 1674.0,
         "cpiChange": -46.0,
         "latestTournamentRecord": "1-4",
-        "bestWin": "San Francisco A (pre #49) 18-5",
-        "gamesLatest": 5,
         "bestWinClean": "San Francisco A18-5",
-        "teamPage": "teams/sj-express-a.html",
-        "clubPage": "clubs/sj-express.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=sj-express-a",
+        "clubPage": "club.html?club=sj-express"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=sj-express"
   },
   {
     "club": "SJ Foundation",
@@ -1939,11 +1919,10 @@
         "postCPI": 1626.0,
         "cpiChange": 26.8,
         "latestTournamentRecord": "3-2",
-        "bestWin": "Vanguard B (pre #45) 9.3-9",
-        "gamesLatest": 5,
         "bestWinClean": "Vanguard B9.3-9",
-        "teamPage": "teams/sj-foundation-a.html",
-        "clubPage": "clubs/sj-foundation.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=sj-foundation-a",
+        "clubPage": "club.html?club=sj-foundation"
       },
       {
         "postRank": 105,
@@ -1958,13 +1937,13 @@
         "postCPI": 1452.9,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/sj-foundation-b.html",
-        "clubPage": "clubs/sj-foundation.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=sj-foundation-b",
+        "clubPage": "club.html?club=sj-foundation"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=sj-foundation"
   },
   {
     "club": "SOCAL",
@@ -1986,13 +1965,13 @@
         "postCPI": 1849.7,
         "cpiChange": -65.3,
         "latestTournamentRecord": "1-4",
-        "bestWin": "Pegasus A (pre #22) 11-8",
-        "gamesLatest": 5,
         "bestWinClean": "Pegasus A11-8",
-        "teamPage": "teams/socal-a.html",
-        "clubPage": "clubs/socal.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=socal-a",
+        "clubPage": "club.html?club=socal"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=socal"
   },
   {
     "club": "San Clemente",
@@ -2014,13 +1993,13 @@
         "postCPI": 1881.7,
         "cpiChange": 24.2,
         "latestTournamentRecord": "3-2",
-        "bestWin": "SOCAL A (pre #15) 14-13",
-        "gamesLatest": 5,
         "bestWinClean": "SOCAL A14-13",
-        "teamPage": "teams/san-clemente-a.html",
-        "clubPage": "clubs/san-clemente.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=san-clemente-a",
+        "clubPage": "club.html?club=san-clemente"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=san-clemente"
   },
   {
     "club": "San Clemente Red",
@@ -2042,13 +2021,13 @@
         "postCPI": 1543.5,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/san-clemente-red.html",
-        "clubPage": "clubs/san-clemente-red.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=san-clemente-red",
+        "clubPage": "club.html?club=san-clemente-red"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=san-clemente-red"
   },
   {
     "club": "San Diego Shores",
@@ -2070,13 +2049,13 @@
         "postCPI": 1949.3,
         "cpiChange": -10.7,
         "latestTournamentRecord": "2-3",
-        "bestWin": "Vanguard A (pre #9) 12-11",
-        "gamesLatest": 5,
         "bestWinClean": "Vanguard A12-11",
-        "teamPage": "teams/san-diego-shores-a.html",
-        "clubPage": "clubs/san-diego-shores.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=san-diego-shores-a",
+        "clubPage": "club.html?club=san-diego-shores"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=san-diego-shores"
   },
   {
     "club": "San Francisco",
@@ -2098,13 +2077,13 @@
         "postCPI": 1597.1,
         "cpiChange": -96.9,
         "latestTournamentRecord": "0-5",
-        "bestWin": "",
-        "gamesLatest": 5,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/san-francisco-a.html",
-        "clubPage": "clubs/san-francisco.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=san-francisco-a",
+        "clubPage": "club.html?club=san-francisco"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=san-francisco"
   },
   {
     "club": "Sand Canyon",
@@ -2126,13 +2105,13 @@
         "postCPI": 1525.7,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/sand-canyon-a.html",
-        "clubPage": "clubs/sand-canyon.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=sand-canyon-a",
+        "clubPage": "club.html?club=sand-canyon"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=sand-canyon"
   },
   {
     "club": "Santa Barbara",
@@ -2154,13 +2133,13 @@
         "postCPI": 1775.6,
         "cpiChange": -34.4,
         "latestTournamentRecord": "2-3",
-        "bestWin": "Clovis Red (pre #46) 13-9",
-        "gamesLatest": 5,
         "bestWinClean": "Clovis Red13-9",
-        "teamPage": "teams/santa-barbara-a.html",
-        "clubPage": "clubs/santa-barbara.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=santa-barbara-a",
+        "clubPage": "club.html?club=santa-barbara"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=santa-barbara"
   },
   {
     "club": "Santa Cruz",
@@ -2182,13 +2161,13 @@
         "postCPI": 1482.3,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/santa-cruz-a.html",
-        "clubPage": "clubs/santa-cruz.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=santa-cruz-a",
+        "clubPage": "club.html?club=santa-cruz"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=santa-cruz"
   },
   {
     "club": "Set",
@@ -2210,13 +2189,13 @@
         "postCPI": 1475.2,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/set-a.html",
-        "clubPage": "clubs/set.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=set-a",
+        "clubPage": "club.html?club=set"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=set"
   },
   {
     "club": "Sharks",
@@ -2238,13 +2217,13 @@
         "postCPI": 1546.8,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/sharks-a.html",
-        "clubPage": "clubs/sharks.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=sharks-a",
+        "clubPage": "club.html?club=sharks"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=sharks"
   },
   {
     "club": "Shore Aquatics",
@@ -2266,13 +2245,13 @@
         "postCPI": 1906.6,
         "cpiChange": 48.1,
         "latestTournamentRecord": "4-1",
-        "bestWin": "Pride A (pre #28) 10-6",
-        "gamesLatest": 5,
         "bestWinClean": "Pride A10-6",
-        "teamPage": "teams/shore-aquatics-a.html",
-        "clubPage": "clubs/shore-aquatics.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=shore-aquatics-a",
+        "clubPage": "club.html?club=shore-aquatics"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=shore-aquatics"
   },
   {
     "club": "Skip",
@@ -2294,13 +2273,13 @@
         "postCPI": 1717.8,
         "cpiChange": 110.3,
         "latestTournamentRecord": "5-0",
-        "bestWin": "LAWPC A (pre #41) 5-4",
-        "gamesLatest": 5,
         "bestWinClean": "LAWPC A5-4",
-        "teamPage": "teams/skip-a.html",
-        "clubPage": "clubs/skip.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=skip-a",
+        "clubPage": "club.html?club=skip"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=skip"
   },
   {
     "club": "South Coast",
@@ -2322,11 +2301,10 @@
         "postCPI": 1914.2,
         "cpiChange": 21.0,
         "latestTournamentRecord": "3-2",
-        "bestWin": "CDM A (pre #16) 4.7-4.6",
-        "gamesLatest": 5,
         "bestWinClean": "CDM A4.7-4.6",
-        "teamPage": "teams/south-coast-a.html",
-        "clubPage": "clubs/south-coast.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=south-coast-a",
+        "clubPage": "club.html?club=south-coast"
       },
       {
         "postRank": 53,
@@ -2341,11 +2319,10 @@
         "postCPI": 1656.6,
         "cpiChange": 22.0,
         "latestTournamentRecord": "3-2",
-        "bestWin": "Vanguard B (pre #45) 7-5",
-        "gamesLatest": 5,
         "bestWinClean": "Vanguard B7-5",
-        "teamPage": "teams/south-coast-b.html",
-        "clubPage": "clubs/south-coast.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=south-coast-b",
+        "clubPage": "club.html?club=south-coast"
       },
       {
         "postRank": 91,
@@ -2360,13 +2337,13 @@
         "postCPI": 1482.3,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/south-coast-c.html",
-        "clubPage": "clubs/south-coast.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=south-coast-c",
+        "clubPage": "club.html?club=south-coast"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=south-coast"
   },
   {
     "club": "Stanford",
@@ -2388,11 +2365,10 @@
         "postCPI": 1948.9,
         "cpiChange": 59.9,
         "latestTournamentRecord": "4-1",
-        "bestWin": "CDM A (pre #16) 11-10",
-        "gamesLatest": 5,
         "bestWinClean": "CDM A11-10",
-        "teamPage": "teams/stanford-a.html",
-        "clubPage": "clubs/stanford.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=stanford-a",
+        "clubPage": "club.html?club=stanford"
       },
       {
         "postRank": 44,
@@ -2407,11 +2383,10 @@
         "postCPI": 1710.0,
         "cpiChange": -9.2,
         "latestTournamentRecord": "2-3",
-        "bestWin": "Rose Bowl A (pre #38) 11-9",
-        "gamesLatest": 5,
         "bestWinClean": "Rose Bowl A11-9",
-        "teamPage": "teams/stanford-b.html",
-        "clubPage": "clubs/stanford.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=stanford-b",
+        "clubPage": "club.html?club=stanford"
       },
       {
         "postRank": 64,
@@ -2426,13 +2401,13 @@
         "postCPI": 1572.6,
         "cpiChange": -31.7,
         "latestTournamentRecord": "2-3",
-        "bestWin": "North Irvine B (pre #65) 12-11",
-        "gamesLatest": 5,
         "bestWinClean": "North Irvine B12-11",
-        "teamPage": "teams/stanford-c.html",
-        "clubPage": "clubs/stanford.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=stanford-c",
+        "clubPage": "club.html?club=stanford"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=stanford"
   },
   {
     "club": "Supreme",
@@ -2454,13 +2429,13 @@
         "postCPI": 1544.5,
         "cpiChange": -18.0,
         "latestTournamentRecord": "2-3",
-        "bestWin": "680 C (pre #64) 11-10",
-        "gamesLatest": 5,
         "bestWinClean": "680 C11-10",
-        "teamPage": "teams/supreme-a.html",
-        "clubPage": "clubs/supreme.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=supreme-a",
+        "clubPage": "club.html?club=supreme"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=supreme"
   },
   {
     "club": "Temple City",
@@ -2482,13 +2457,13 @@
         "postCPI": 1874.0,
         "cpiChange": 41.5,
         "latestTournamentRecord": "4-1",
-        "bestWin": "CC United B (pre #32) 11-8",
-        "gamesLatest": 5,
         "bestWinClean": "CC United B11-8",
-        "teamPage": "teams/temple-city-a.html",
-        "clubPage": "clubs/temple-city.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=temple-city-a",
+        "clubPage": "club.html?club=temple-city"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=temple-city"
   },
   {
     "club": "Titans",
@@ -2510,13 +2485,13 @@
         "postCPI": 1605.7,
         "cpiChange": -24.3,
         "latestTournamentRecord": "2-3",
-        "bestWin": "CVU A (pre #61) 10-6",
-        "gamesLatest": 5,
         "bestWinClean": "CVU A10-6",
-        "teamPage": "teams/titans-a.html",
-        "clubPage": "clubs/titans.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=titans-a",
+        "clubPage": "club.html?club=titans"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=titans"
   },
   {
     "club": "Tri-Valley Tritons",
@@ -2538,13 +2513,13 @@
         "postCPI": 1448.7,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/tri-valley-tritons-a.html",
-        "clubPage": "clubs/tri-valley-tritons.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=tri-valley-tritons-a",
+        "clubPage": "club.html?club=tri-valley-tritons"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=tri-valley-tritons"
   },
   {
     "club": "Trilogy",
@@ -2566,13 +2541,13 @@
         "postCPI": 1475.4,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/trilogy-a.html",
-        "clubPage": "clubs/trilogy.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=trilogy-a",
+        "clubPage": "club.html?club=trilogy"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=trilogy"
   },
   {
     "club": "Triton Gold",
@@ -2594,13 +2569,13 @@
         "postCPI": 1465.1,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/triton-gold.html",
-        "clubPage": "clubs/triton-gold.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=triton-gold",
+        "clubPage": "club.html?club=triton-gold"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=triton-gold"
   },
   {
     "club": "Trojan",
@@ -2622,13 +2597,13 @@
         "postCPI": 1689.7,
         "cpiChange": -13.2,
         "latestTournamentRecord": "2-3",
-        "bestWin": "Rose Bowl A (pre #38) 16-15",
-        "gamesLatest": 5,
         "bestWinClean": "Rose Bowl A16-15",
-        "teamPage": "teams/trojan-a.html",
-        "clubPage": "clubs/trojan.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=trojan-a",
+        "clubPage": "club.html?club=trojan"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=trojan"
   },
   {
     "club": "Vanguard",
@@ -2650,11 +2625,10 @@
         "postCPI": 1936.4,
         "cpiChange": -53.6,
         "latestTournamentRecord": "1-4",
-        "bestWin": "North Irvine A (pre #17) 11-5",
-        "gamesLatest": 5,
         "bestWinClean": "North Irvine A11-5",
-        "teamPage": "teams/vanguard-a.html",
-        "clubPage": "clubs/vanguard.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=vanguard-a",
+        "clubPage": "club.html?club=vanguard"
       },
       {
         "postRank": 43,
@@ -2669,11 +2643,10 @@
         "postCPI": 1711.4,
         "cpiChange": 3.1,
         "latestTournamentRecord": "3-2",
-        "bestWin": "680 B (pre #54) 8.5-8.4",
-        "gamesLatest": 5,
         "bestWinClean": "680 B8.5-8.4",
-        "teamPage": "teams/vanguard-b.html",
-        "clubPage": "clubs/vanguard.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=vanguard-b",
+        "clubPage": "club.html?club=vanguard"
       },
       {
         "postRank": 66,
@@ -2688,13 +2661,13 @@
         "postCPI": 1551.6,
         "cpiChange": 0.0,
         "latestTournamentRecord": "",
-        "bestWin": "",
-        "gamesLatest": 0,
         "bestWinClean": "\u2014",
-        "teamPage": "teams/vanguard-c.html",
-        "clubPage": "clubs/vanguard.html"
+        "gamesLatest": 0,
+        "teamPage": "team.html?team=vanguard-c",
+        "clubPage": "club.html?club=vanguard"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=vanguard"
   },
   {
     "club": "Vegas Renegades",
@@ -2716,12 +2689,12 @@
         "postCPI": 1740.4,
         "cpiChange": 57.9,
         "latestTournamentRecord": "4-1",
-        "bestWin": "Alameda A (pre #53) 16-10",
-        "gamesLatest": 5,
         "bestWinClean": "Alameda A16-10",
-        "teamPage": "teams/vegas-renegades-a.html",
-        "clubPage": "clubs/vegas-renegades.html"
+        "gamesLatest": 5,
+        "teamPage": "team.html?team=vegas-renegades-a",
+        "clubPage": "club.html?club=vegas-renegades"
       }
-    ]
+    ],
+    "clubPage": "club.html?club=vegas-renegades"
   }
 ]

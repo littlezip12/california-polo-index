@@ -1,5 +1,3 @@
-# California Polo Index — Club Pages
+# CPI Dynamic Pages
 
-Upload all files to the root of your GitHub Pages repo.
-
-Added club directory and one club page per tracked club. No home-pool field.
+Fixes 404 errors by using team.html and club.html query pages instead of nested generated files.
