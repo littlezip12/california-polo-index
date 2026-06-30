@@ -1,11 +1,14 @@
-# CPI Logo + Team Page Polish Pass
+# California Polo Index v2 Major Push
 
-Updates:
-- Logos now render on homepage Top 8 and 14U Boys Top 8 cards.
-- Team pages have a larger logo treatment and club-color hero backdrop.
-- Mission logo added from official Mission WPC site.
-- Patriot and NorCal remain wired.
-- La Jolla United and SD Dons remain pending confirmation.
-- Logo metadata still applies at club level, so A/B/C/D teams inherit automatically.
+Included:
+- Local generated club badges for every club in `assets/logos/`
+- Logos/badges render on homepage, rankings, team pages, and club pages
+- Club-color hero backdrops
+- Clean rankings table: no overall record, no division filter
+- Best win formatting fixed: `SD Dons A (10–5)`
+- Team pages redesigned around Latest Tournament
+- Club pages redesigned around ranked teams
+- Sponsor-ready module
+- `data/logo_map.csv` tracks which generated badges should later be replaced by official logos
 
-Upload/replace all files at the GitHub repository root and commit.
+Upload all files/folders inside this package to the GitHub repo root and commit.
