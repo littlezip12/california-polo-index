@@ -22,7 +22,11 @@
         "bestWinClean": "Patriot B14-10",
         "gamesLatest": 5,
         "teamPage": "team.html?team=680-a",
-        "clubPage": "club.html?club=680"
+        "clubPage": "club.html?club=680",
+        "logo": "",
+        "primaryColor": "#111827",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       },
       {
         "postRank": 50,
@@ -40,7 +44,11 @@
         "bestWinClean": "South Coast B10-6",
         "gamesLatest": 5,
         "teamPage": "team.html?team=680-b",
-        "clubPage": "club.html?club=680"
+        "clubPage": "club.html?club=680",
+        "logo": "",
+        "primaryColor": "#111827",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       },
       {
         "postRank": 76,
@@ -58,10 +66,19 @@
         "bestWinClean": "North Irvine B21-20",
         "gamesLatest": 5,
         "teamPage": "team.html?team=680-c",
-        "clubPage": "club.html?club=680"
+        "clubPage": "club.html?club=680",
+        "logo": "",
+        "primaryColor": "#111827",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       }
     ],
-    "clubPage": "club.html?club=680"
+    "clubPage": "club.html?club=680",
+    "logo": "",
+    "primaryColor": "#111827",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "pending",
+    "source": ""
   },
   {
     "club": "908",
@@ -86,10 +103,19 @@
         "bestWinClean": "San Diego Shores A10.3-10.1",
         "gamesLatest": 6,
         "teamPage": "team.html?team=908",
-        "clubPage": "club.html?club=908"
+        "clubPage": "club.html?club=908",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=908"
+    "clubPage": "club.html?club=908",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Alameda",
@@ -114,10 +140,19 @@
         "bestWinClean": "Lamorinda B13-11",
         "gamesLatest": 5,
         "teamPage": "team.html?team=alameda-a",
-        "clubPage": "club.html?club=alameda"
+        "clubPage": "club.html?club=alameda",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=alameda"
+    "clubPage": "club.html?club=alameda",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "American River",
@@ -142,7 +177,11 @@
         "bestWinClean": "San Francisco A11-5",
         "gamesLatest": 5,
         "teamPage": "team.html?team=american-river-a",
-        "clubPage": "club.html?club=american-river"
+        "clubPage": "club.html?club=american-river",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       },
       {
         "postRank": 97,
@@ -160,10 +199,19 @@
         "bestWinClean": "North Irvine B8-6",
         "gamesLatest": 5,
         "teamPage": "team.html?team=american-river-b",
-        "clubPage": "club.html?club=american-river"
+        "clubPage": "club.html?club=american-river",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=american-river"
+    "clubPage": "club.html?club=american-river",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "BOA",
@@ -188,10 +236,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=boa-a",
-        "clubPage": "club.html?club=boa"
+        "clubPage": "club.html?club=boa",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=boa"
+    "clubPage": "club.html?club=boa",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Back Bay",
@@ -216,10 +273,19 @@
         "bestWinClean": "La Jolla United B23-15",
         "gamesLatest": 5,
         "teamPage": "team.html?team=back-bay-a",
-        "clubPage": "club.html?club=back-bay"
+        "clubPage": "club.html?club=back-bay",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=back-bay"
+    "clubPage": "club.html?club=back-bay",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Brea Olinda Gold",
@@ -244,10 +310,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=brea-olinda-gold",
-        "clubPage": "club.html?club=brea-olinda-gold"
+        "clubPage": "club.html?club=brea-olinda-gold",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=brea-olinda-gold"
+    "clubPage": "club.html?club=brea-olinda-gold",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Burlingame",
@@ -272,10 +347,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=burlingame-a",
-        "clubPage": "club.html?club=burlingame"
+        "clubPage": "club.html?club=burlingame",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=burlingame"
+    "clubPage": "club.html?club=burlingame",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "CC United",
@@ -300,7 +384,11 @@
         "bestWinClean": "Vanguard A8.4-8.3",
         "gamesLatest": 6,
         "teamPage": "team.html?team=cc-united-a",
-        "clubPage": "club.html?club=cc-united"
+        "clubPage": "club.html?club=cc-united",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       },
       {
         "postRank": 35,
@@ -318,7 +406,11 @@
         "bestWinClean": "Santa Barbara A15.3-15.2",
         "gamesLatest": 5,
         "teamPage": "team.html?team=cc-united-b",
-        "clubPage": "club.html?club=cc-united"
+        "clubPage": "club.html?club=cc-united",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       },
       {
         "postRank": 93,
@@ -336,10 +428,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=cc-united-c",
-        "clubPage": "club.html?club=cc-united"
+        "clubPage": "club.html?club=cc-united",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       }
     ],
-    "clubPage": "club.html?club=cc-united"
+    "clubPage": "club.html?club=cc-united",
+    "logo": "",
+    "primaryColor": "#0B2E63",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "pending",
+    "source": ""
   },
   {
     "club": "CDM",
@@ -364,10 +465,19 @@
         "bestWinClean": "Pegasus A9-5",
         "gamesLatest": 5,
         "teamPage": "team.html?team=cdm-a",
-        "clubPage": "club.html?club=cdm"
+        "clubPage": "club.html?club=cdm",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=cdm"
+    "clubPage": "club.html?club=cdm",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "CIU",
@@ -392,10 +502,19 @@
         "bestWinClean": "Patriot A15-8",
         "gamesLatest": 5,
         "teamPage": "team.html?team=ciu-a",
-        "clubPage": "club.html?club=ciu"
+        "clubPage": "club.html?club=ciu",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=ciu"
+    "clubPage": "club.html?club=ciu",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "CT Premier",
@@ -420,10 +539,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=ct-premier-a",
-        "clubPage": "club.html?club=ct-premier"
+        "clubPage": "club.html?club=ct-premier",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=ct-premier"
+    "clubPage": "club.html?club=ct-premier",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "CVU",
@@ -448,10 +576,19 @@
         "bestWinClean": "Diablo Alliance B15-11",
         "gamesLatest": 5,
         "teamPage": "team.html?team=cvu-a",
-        "clubPage": "club.html?club=cvu"
+        "clubPage": "club.html?club=cvu",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=cvu"
+    "clubPage": "club.html?club=cvu",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Clovis Red",
@@ -476,10 +613,19 @@
         "bestWinClean": "Patriot B10-9",
         "gamesLatest": 5,
         "teamPage": "team.html?team=clovis-red",
-        "clubPage": "club.html?club=clovis-red"
+        "clubPage": "club.html?club=clovis-red",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=clovis-red"
+    "clubPage": "club.html?club=clovis-red",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Commerce",
@@ -504,10 +650,19 @@
         "bestWinClean": "North Irvine A9-6",
         "gamesLatest": 5,
         "teamPage": "team.html?team=commerce-a",
-        "clubPage": "club.html?club=commerce"
+        "clubPage": "club.html?club=commerce",
+        "logo": "",
+        "primaryColor": "#111827",
+        "secondaryColor": "#60A5FA",
+        "logoStatus": "pending"
       }
     ],
-    "clubPage": "club.html?club=commerce"
+    "clubPage": "club.html?club=commerce",
+    "logo": "",
+    "primaryColor": "#111827",
+    "secondaryColor": "#60A5FA",
+    "logoStatus": "pending",
+    "source": ""
   },
   {
     "club": "Davis",
@@ -532,10 +687,19 @@
         "bestWinClean": "SOCAL A8-6",
         "gamesLatest": 5,
         "teamPage": "team.html?team=davis-a",
-        "clubPage": "club.html?club=davis"
+        "clubPage": "club.html?club=davis",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=davis"
+    "clubPage": "club.html?club=davis",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Devils Gate",
@@ -560,10 +724,19 @@
         "bestWinClean": "Pride A10-6",
         "gamesLatest": 5,
         "teamPage": "team.html?team=devils-gate-a",
-        "clubPage": "club.html?club=devils-gate"
+        "clubPage": "club.html?club=devils-gate",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=devils-gate"
+    "clubPage": "club.html?club=devils-gate",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Diablo Alliance",
@@ -588,7 +761,11 @@
         "bestWinClean": "SOCAL A21-6",
         "gamesLatest": 5,
         "teamPage": "team.html?team=diablo-alliance-a",
-        "clubPage": "club.html?club=diablo-alliance"
+        "clubPage": "club.html?club=diablo-alliance",
+        "logo": "",
+        "primaryColor": "#111827",
+        "secondaryColor": "#F97316",
+        "logoStatus": "pending"
       },
       {
         "postRank": 60,
@@ -606,10 +783,19 @@
         "bestWinClean": "Titans A13-9",
         "gamesLatest": 5,
         "teamPage": "team.html?team=diablo-alliance-b",
-        "clubPage": "club.html?club=diablo-alliance"
+        "clubPage": "club.html?club=diablo-alliance",
+        "logo": "",
+        "primaryColor": "#111827",
+        "secondaryColor": "#F97316",
+        "logoStatus": "pending"
       }
     ],
-    "clubPage": "club.html?club=diablo-alliance"
+    "clubPage": "club.html?club=diablo-alliance",
+    "logo": "",
+    "primaryColor": "#111827",
+    "secondaryColor": "#F97316",
+    "logoStatus": "pending",
+    "source": ""
   },
   {
     "club": "Foothill Club",
@@ -634,10 +820,19 @@
         "bestWinClean": "Clovis Red12-5",
         "gamesLatest": 5,
         "teamPage": "team.html?team=foothill-club-a",
-        "clubPage": "club.html?club=foothill-club"
+        "clubPage": "club.html?club=foothill-club",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=foothill-club"
+    "clubPage": "club.html?club=foothill-club",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Gold Coast",
@@ -662,10 +857,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=gold-coast-a",
-        "clubPage": "club.html?club=gold-coast"
+        "clubPage": "club.html?club=gold-coast",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=gold-coast"
+    "clubPage": "club.html?club=gold-coast",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Hieland",
@@ -690,10 +894,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=hieland-a",
-        "clubPage": "club.html?club=hieland"
+        "clubPage": "club.html?club=hieland",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=hieland"
+    "clubPage": "club.html?club=hieland",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Honolulu Blue",
@@ -718,10 +931,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=honolulu-blue",
-        "clubPage": "club.html?club=honolulu-blue"
+        "clubPage": "club.html?club=honolulu-blue",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=honolulu-blue"
+    "clubPage": "club.html?club=honolulu-blue",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Honolulu Green",
@@ -746,10 +968,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=honolulu-green-a",
-        "clubPage": "club.html?club=honolulu-green"
+        "clubPage": "club.html?club=honolulu-green",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=honolulu-green"
+    "clubPage": "club.html?club=honolulu-green",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Kingsburg",
@@ -774,10 +1005,19 @@
         "bestWinClean": "American River A16-5",
         "gamesLatest": 5,
         "teamPage": "team.html?team=kingsburg-a",
-        "clubPage": "club.html?club=kingsburg"
+        "clubPage": "club.html?club=kingsburg",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=kingsburg"
+    "clubPage": "club.html?club=kingsburg",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "LA Premier",
@@ -802,10 +1042,19 @@
         "bestWinClean": "Patriot A6.5-6.4",
         "gamesLatest": 6,
         "teamPage": "team.html?team=la-premier-a",
-        "clubPage": "club.html?club=la-premier"
+        "clubPage": "club.html?club=la-premier",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=la-premier"
+    "clubPage": "club.html?club=la-premier",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "LAWPC",
@@ -830,10 +1079,19 @@
         "bestWinClean": "Vegas Renegades A9-7",
         "gamesLatest": 5,
         "teamPage": "team.html?team=lawpc-a",
-        "clubPage": "club.html?club=lawpc"
+        "clubPage": "club.html?club=lawpc",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=lawpc"
+    "clubPage": "club.html?club=lawpc",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "La Jolla United",
@@ -858,7 +1116,11 @@
         "bestWinClean": "Mission A12-9",
         "gamesLatest": 5,
         "teamPage": "team.html?team=la-jolla-united-a",
-        "clubPage": "club.html?club=la-jolla-united"
+        "clubPage": "club.html?club=la-jolla-united",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#FFFFFF",
+        "logoStatus": "needs-confirmation"
       },
       {
         "postRank": 41,
@@ -876,10 +1138,19 @@
         "bestWinClean": "680 A10-9",
         "gamesLatest": 5,
         "teamPage": "team.html?team=la-jolla-united-b",
-        "clubPage": "club.html?club=la-jolla-united"
+        "clubPage": "club.html?club=la-jolla-united",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#FFFFFF",
+        "logoStatus": "needs-confirmation"
       }
     ],
-    "clubPage": "club.html?club=la-jolla-united"
+    "clubPage": "club.html?club=la-jolla-united",
+    "logo": "",
+    "primaryColor": "#0B2E63",
+    "secondaryColor": "#FFFFFF",
+    "logoStatus": "needs-confirmation",
+    "source": "https://lajollaunited.com/"
   },
   {
     "club": "Lamorinda",
@@ -904,7 +1175,11 @@
         "bestWinClean": "North Irvine A15-8",
         "gamesLatest": 6,
         "teamPage": "team.html?team=lamorinda-a",
-        "clubPage": "club.html?club=lamorinda"
+        "clubPage": "club.html?club=lamorinda",
+        "logo": "",
+        "primaryColor": "#B91C1C",
+        "secondaryColor": "#111827",
+        "logoStatus": "pending"
       },
       {
         "postRank": 55,
@@ -922,7 +1197,11 @@
         "bestWinClean": "South Coast B13-7",
         "gamesLatest": 5,
         "teamPage": "team.html?team=lamorinda-b",
-        "clubPage": "club.html?club=lamorinda"
+        "clubPage": "club.html?club=lamorinda",
+        "logo": "",
+        "primaryColor": "#B91C1C",
+        "secondaryColor": "#111827",
+        "logoStatus": "pending"
       },
       {
         "postRank": 103,
@@ -940,10 +1219,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=lamorinda-c",
-        "clubPage": "club.html?club=lamorinda"
+        "clubPage": "club.html?club=lamorinda",
+        "logo": "",
+        "primaryColor": "#B91C1C",
+        "secondaryColor": "#111827",
+        "logoStatus": "pending"
       }
     ],
-    "clubPage": "club.html?club=lamorinda"
+    "clubPage": "club.html?club=lamorinda",
+    "logo": "",
+    "primaryColor": "#B91C1C",
+    "secondaryColor": "#111827",
+    "logoStatus": "pending",
+    "source": ""
   },
   {
     "club": "Los Alamitos",
@@ -968,10 +1256,19 @@
         "bestWinClean": "Newport Beach B10-8",
         "gamesLatest": 5,
         "teamPage": "team.html?team=los-alamitos-a",
-        "clubPage": "club.html?club=los-alamitos"
+        "clubPage": "club.html?club=los-alamitos",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=los-alamitos"
+    "clubPage": "club.html?club=los-alamitos",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Loyola WPC",
@@ -996,10 +1293,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=loyola-wpc-a",
-        "clubPage": "club.html?club=loyola-wpc"
+        "clubPage": "club.html?club=loyola-wpc",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=loyola-wpc"
+    "clubPage": "club.html?club=loyola-wpc",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Midpen",
@@ -1024,10 +1330,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=midpen-a",
-        "clubPage": "club.html?club=midpen"
+        "clubPage": "club.html?club=midpen",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=midpen"
+    "clubPage": "club.html?club=midpen",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Mission",
@@ -1052,7 +1367,11 @@
         "bestWinClean": "SD Dons A10-5",
         "gamesLatest": 5,
         "teamPage": "team.html?team=mission-a",
-        "clubPage": "club.html?club=mission"
+        "clubPage": "club.html?club=mission",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       },
       {
         "postRank": 21,
@@ -1070,10 +1389,19 @@
         "bestWinClean": "Santa Barbara A12-5",
         "gamesLatest": 5,
         "teamPage": "team.html?team=mission-b",
-        "clubPage": "club.html?club=mission"
+        "clubPage": "club.html?club=mission",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       }
     ],
-    "clubPage": "club.html?club=mission"
+    "clubPage": "club.html?club=mission",
+    "logo": "",
+    "primaryColor": "#0B2E63",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "pending",
+    "source": ""
   },
   {
     "club": "Nado",
@@ -1098,10 +1426,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=nado-a",
-        "clubPage": "club.html?club=nado"
+        "clubPage": "club.html?club=nado",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=nado"
+    "clubPage": "club.html?club=nado",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Newport Beach",
@@ -1126,7 +1463,11 @@
         "bestWinClean": "Patriot A8-4",
         "gamesLatest": 6,
         "teamPage": "team.html?team=newport-beach-a",
-        "clubPage": "club.html?club=newport-beach"
+        "clubPage": "club.html?club=newport-beach",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       },
       {
         "postRank": 34,
@@ -1144,10 +1485,19 @@
         "bestWinClean": "Santa Barbara A13-10",
         "gamesLatest": 5,
         "teamPage": "team.html?team=newport-beach-b",
-        "clubPage": "club.html?club=newport-beach"
+        "clubPage": "club.html?club=newport-beach",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       }
     ],
-    "clubPage": "club.html?club=newport-beach"
+    "clubPage": "club.html?club=newport-beach",
+    "logo": "",
+    "primaryColor": "#0B2E63",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "pending",
+    "source": ""
   },
   {
     "club": "NorCal",
@@ -1172,7 +1522,11 @@
         "bestWinClean": "Patriot A12-6",
         "gamesLatest": 5,
         "teamPage": "team.html?team=norcal-a",
-        "clubPage": "club.html?club=norcal"
+        "clubPage": "club.html?club=norcal",
+        "logo": "https://static.wixstatic.com/media/b2ec06_6d4329c06b9040968b6d7018deacaa42~mv2.jpg/v1/fill/w_105%2Ch_105%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Printable_File%20-04.jpg",
+        "primaryColor": "#111111",
+        "secondaryColor": "#1FB7C8",
+        "logoStatus": "verified"
       },
       {
         "postRank": 58,
@@ -1190,7 +1544,11 @@
         "bestWinClean": "Stanford C10-4",
         "gamesLatest": 5,
         "teamPage": "team.html?team=norcal-b",
-        "clubPage": "club.html?club=norcal"
+        "clubPage": "club.html?club=norcal",
+        "logo": "https://static.wixstatic.com/media/b2ec06_6d4329c06b9040968b6d7018deacaa42~mv2.jpg/v1/fill/w_105%2Ch_105%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Printable_File%20-04.jpg",
+        "primaryColor": "#111111",
+        "secondaryColor": "#1FB7C8",
+        "logoStatus": "verified"
       },
       {
         "postRank": 80,
@@ -1208,10 +1566,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=norcal-c",
-        "clubPage": "club.html?club=norcal"
+        "clubPage": "club.html?club=norcal",
+        "logo": "https://static.wixstatic.com/media/b2ec06_6d4329c06b9040968b6d7018deacaa42~mv2.jpg/v1/fill/w_105%2Ch_105%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Printable_File%20-04.jpg",
+        "primaryColor": "#111111",
+        "secondaryColor": "#1FB7C8",
+        "logoStatus": "verified"
       }
     ],
-    "clubPage": "club.html?club=norcal"
+    "clubPage": "club.html?club=norcal",
+    "logo": "https://static.wixstatic.com/media/b2ec06_6d4329c06b9040968b6d7018deacaa42~mv2.jpg/v1/fill/w_105%2Ch_105%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Printable_File%20-04.jpg",
+    "primaryColor": "#111111",
+    "secondaryColor": "#1FB7C8",
+    "logoStatus": "verified",
+    "source": "https://www.norcal-aquatics.com/"
   },
   {
     "club": "North Irvine",
@@ -1236,7 +1603,11 @@
         "bestWinClean": "SOCAL A10-7",
         "gamesLatest": 5,
         "teamPage": "team.html?team=north-irvine-a",
-        "clubPage": "club.html?club=north-irvine"
+        "clubPage": "club.html?club=north-irvine",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       },
       {
         "postRank": 89,
@@ -1254,10 +1625,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 5,
         "teamPage": "team.html?team=north-irvine-b",
-        "clubPage": "club.html?club=north-irvine"
+        "clubPage": "club.html?club=north-irvine",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       }
     ],
-    "clubPage": "club.html?club=north-irvine"
+    "clubPage": "club.html?club=north-irvine",
+    "logo": "",
+    "primaryColor": "#0B2E63",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "pending",
+    "source": ""
   },
   {
     "club": "Northwest",
@@ -1282,10 +1662,19 @@
         "bestWinClean": "680 A14-13",
         "gamesLatest": 5,
         "teamPage": "team.html?team=northwest-a",
-        "clubPage": "club.html?club=northwest"
+        "clubPage": "club.html?club=northwest",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=northwest"
+    "clubPage": "club.html?club=northwest",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "OCWPC",
@@ -1310,7 +1699,11 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=ocwpc-a",
-        "clubPage": "club.html?club=ocwpc"
+        "clubPage": "club.html?club=ocwpc",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       },
       {
         "postRank": 73,
@@ -1328,10 +1721,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=ocwpc-b",
-        "clubPage": "club.html?club=ocwpc"
+        "clubPage": "club.html?club=ocwpc",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=ocwpc"
+    "clubPage": "club.html?club=ocwpc",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "ORWP",
@@ -1356,10 +1758,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=orwp-a",
-        "clubPage": "club.html?club=orwp"
+        "clubPage": "club.html?club=orwp",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=orwp"
+    "clubPage": "club.html?club=orwp",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "OVAC",
@@ -1384,10 +1795,19 @@
         "bestWinClean": "9086-4",
         "gamesLatest": 6,
         "teamPage": "team.html?team=ovac-a",
-        "clubPage": "club.html?club=ovac"
+        "clubPage": "club.html?club=ovac",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=ovac"
+    "clubPage": "club.html?club=ovac",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "PV WPC",
@@ -1412,7 +1832,11 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=pv-wpc-a",
-        "clubPage": "club.html?club=pv-wpc"
+        "clubPage": "club.html?club=pv-wpc",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       },
       {
         "postRank": 83,
@@ -1430,10 +1854,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=pv-wpc-b",
-        "clubPage": "club.html?club=pv-wpc"
+        "clubPage": "club.html?club=pv-wpc",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=pv-wpc"
+    "clubPage": "club.html?club=pv-wpc",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Pasadena AC",
@@ -1458,10 +1891,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=pasadena-ac-a",
-        "clubPage": "club.html?club=pasadena-ac"
+        "clubPage": "club.html?club=pasadena-ac",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=pasadena-ac"
+    "clubPage": "club.html?club=pasadena-ac",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Patriot",
@@ -1486,7 +1928,11 @@
         "bestWinClean": "Vanguard A10.3-10.2",
         "gamesLatest": 6,
         "teamPage": "team.html?team=patriot-a",
-        "clubPage": "club.html?club=patriot"
+        "clubPage": "club.html?club=patriot",
+        "logo": "https://imgproxy.gamma.app/resize/quality%3A80/resizing_type%3Afit/width%3A2000/height%3A2000/https%3A//cdn.gamma.app/gtpvduiq2vwuppl/e9054f32062b40d38121e517b9f16091/original/PA-new-logo.png",
+        "primaryColor": "#1746A2",
+        "secondaryColor": "#E31B23",
+        "logoStatus": "verified"
       },
       {
         "postRank": 28,
@@ -1504,10 +1950,19 @@
         "bestWinClean": "Foothill Club A12-9",
         "gamesLatest": 5,
         "teamPage": "team.html?team=patriot-b",
-        "clubPage": "club.html?club=patriot"
+        "clubPage": "club.html?club=patriot",
+        "logo": "https://imgproxy.gamma.app/resize/quality%3A80/resizing_type%3Afit/width%3A2000/height%3A2000/https%3A//cdn.gamma.app/gtpvduiq2vwuppl/e9054f32062b40d38121e517b9f16091/original/PA-new-logo.png",
+        "primaryColor": "#1746A2",
+        "secondaryColor": "#E31B23",
+        "logoStatus": "verified"
       }
     ],
-    "clubPage": "club.html?club=patriot"
+    "clubPage": "club.html?club=patriot",
+    "logo": "https://imgproxy.gamma.app/resize/quality%3A80/resizing_type%3Afit/width%3A2000/height%3A2000/https%3A//cdn.gamma.app/gtpvduiq2vwuppl/e9054f32062b40d38121e517b9f16091/original/PA-new-logo.png",
+    "primaryColor": "#1746A2",
+    "secondaryColor": "#E31B23",
+    "logoStatus": "verified",
+    "source": "https://patriotaquatics.org/"
   },
   {
     "club": "Patriot Red",
@@ -1532,10 +1987,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=patriot-red",
-        "clubPage": "club.html?club=patriot-red"
+        "clubPage": "club.html?club=patriot-red",
+        "logo": "https://imgproxy.gamma.app/resize/quality%3A80/resizing_type%3Afit/width%3A2000/height%3A2000/https%3A//cdn.gamma.app/gtpvduiq2vwuppl/e9054f32062b40d38121e517b9f16091/original/PA-new-logo.png",
+        "primaryColor": "#1746A2",
+        "secondaryColor": "#E31B23",
+        "logoStatus": "verified"
       }
     ],
-    "clubPage": "club.html?club=patriot-red"
+    "clubPage": "club.html?club=patriot-red",
+    "logo": "https://imgproxy.gamma.app/resize/quality%3A80/resizing_type%3Afit/width%3A2000/height%3A2000/https%3A//cdn.gamma.app/gtpvduiq2vwuppl/e9054f32062b40d38121e517b9f16091/original/PA-new-logo.png",
+    "primaryColor": "#1746A2",
+    "secondaryColor": "#E31B23",
+    "logoStatus": "verified",
+    "source": "https://patriotaquatics.org/"
   },
   {
     "club": "Pegasus",
@@ -1560,10 +2024,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 5,
         "teamPage": "team.html?team=pegasus-a",
-        "clubPage": "club.html?club=pegasus"
+        "clubPage": "club.html?club=pegasus",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=pegasus"
+    "clubPage": "club.html?club=pegasus",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Poway Valley Black",
@@ -1588,10 +2061,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=poway-valley-black",
-        "clubPage": "club.html?club=poway-valley-black"
+        "clubPage": "club.html?club=poway-valley-black",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=poway-valley-black"
+    "clubPage": "club.html?club=poway-valley-black",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Pride",
@@ -1616,7 +2098,11 @@
         "bestWinClean": "Temple City A15-10",
         "gamesLatest": 5,
         "teamPage": "team.html?team=pride-a",
-        "clubPage": "club.html?club=pride"
+        "clubPage": "club.html?club=pride",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       },
       {
         "postRank": 85,
@@ -1634,10 +2120,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=pride-b",
-        "clubPage": "club.html?club=pride"
+        "clubPage": "club.html?club=pride",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=pride"
+    "clubPage": "club.html?club=pride",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Rancho Tsunami",
@@ -1662,10 +2157,19 @@
         "bestWinClean": "Shore Aquatics A11-8",
         "gamesLatest": 5,
         "teamPage": "team.html?team=rancho-tsunami-a",
-        "clubPage": "club.html?club=rancho-tsunami"
+        "clubPage": "club.html?club=rancho-tsunami",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=rancho-tsunami"
+    "clubPage": "club.html?club=rancho-tsunami",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Riverside",
@@ -1690,10 +2194,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=riverside-a",
-        "clubPage": "club.html?club=riverside"
+        "clubPage": "club.html?club=riverside",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=riverside"
+    "clubPage": "club.html?club=riverside",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Rose Bowl",
@@ -1718,10 +2231,19 @@
         "bestWinClean": "SJ Express A11-6",
         "gamesLatest": 5,
         "teamPage": "team.html?team=rose-bowl-a",
-        "clubPage": "club.html?club=rose-bowl"
+        "clubPage": "club.html?club=rose-bowl",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=rose-bowl"
+    "clubPage": "club.html?club=rose-bowl",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Route 66 Aquatics",
@@ -1746,10 +2268,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=route-66-aquatics-a",
-        "clubPage": "club.html?club=route-66-aquatics"
+        "clubPage": "club.html?club=route-66-aquatics",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=route-66-aquatics"
+    "clubPage": "club.html?club=route-66-aquatics",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "SD Dons",
@@ -1774,7 +2305,11 @@
         "bestWinClean": "OVAC A11-7",
         "gamesLatest": 6,
         "teamPage": "team.html?team=sd-dons-a",
-        "clubPage": "club.html?club=sd-dons"
+        "clubPage": "club.html?club=sd-dons",
+        "logo": "",
+        "primaryColor": "#111827",
+        "secondaryColor": "#C8102E",
+        "logoStatus": "needs-confirmation"
       },
       {
         "postRank": 65,
@@ -1792,10 +2327,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=sd-dons-b",
-        "clubPage": "club.html?club=sd-dons"
+        "clubPage": "club.html?club=sd-dons",
+        "logo": "",
+        "primaryColor": "#111827",
+        "secondaryColor": "#C8102E",
+        "logoStatus": "needs-confirmation"
       }
     ],
-    "clubPage": "club.html?club=sd-dons"
+    "clubPage": "club.html?club=sd-dons",
+    "logo": "",
+    "primaryColor": "#111827",
+    "secondaryColor": "#C8102E",
+    "logoStatus": "needs-confirmation",
+    "source": "https://sddonspolo.com/"
   },
   {
     "club": "SD ECA",
@@ -1820,10 +2364,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=sd-eca-a",
-        "clubPage": "club.html?club=sd-eca"
+        "clubPage": "club.html?club=sd-eca",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=sd-eca"
+    "clubPage": "club.html?club=sd-eca",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "SHAQ",
@@ -1848,7 +2401,11 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=shaq-a",
-        "clubPage": "club.html?club=shaq"
+        "clubPage": "club.html?club=shaq",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       },
       {
         "postRank": 84,
@@ -1866,10 +2423,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=shaq-b",
-        "clubPage": "club.html?club=shaq"
+        "clubPage": "club.html?club=shaq",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=shaq"
+    "clubPage": "club.html?club=shaq",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "SJ Express",
@@ -1894,10 +2460,19 @@
         "bestWinClean": "San Francisco A18-5",
         "gamesLatest": 5,
         "teamPage": "team.html?team=sj-express-a",
-        "clubPage": "club.html?club=sj-express"
+        "clubPage": "club.html?club=sj-express",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=sj-express"
+    "clubPage": "club.html?club=sj-express",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "SJ Foundation",
@@ -1922,7 +2497,11 @@
         "bestWinClean": "Vanguard B9.3-9",
         "gamesLatest": 5,
         "teamPage": "team.html?team=sj-foundation-a",
-        "clubPage": "club.html?club=sj-foundation"
+        "clubPage": "club.html?club=sj-foundation",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       },
       {
         "postRank": 105,
@@ -1940,10 +2519,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=sj-foundation-b",
-        "clubPage": "club.html?club=sj-foundation"
+        "clubPage": "club.html?club=sj-foundation",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=sj-foundation"
+    "clubPage": "club.html?club=sj-foundation",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "SOCAL",
@@ -1968,10 +2556,19 @@
         "bestWinClean": "Pegasus A11-8",
         "gamesLatest": 5,
         "teamPage": "team.html?team=socal-a",
-        "clubPage": "club.html?club=socal"
+        "clubPage": "club.html?club=socal",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=socal"
+    "clubPage": "club.html?club=socal",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "San Clemente",
@@ -1996,10 +2593,19 @@
         "bestWinClean": "SOCAL A14-13",
         "gamesLatest": 5,
         "teamPage": "team.html?team=san-clemente-a",
-        "clubPage": "club.html?club=san-clemente"
+        "clubPage": "club.html?club=san-clemente",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=san-clemente"
+    "clubPage": "club.html?club=san-clemente",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "San Clemente Red",
@@ -2024,10 +2630,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=san-clemente-red",
-        "clubPage": "club.html?club=san-clemente-red"
+        "clubPage": "club.html?club=san-clemente-red",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=san-clemente-red"
+    "clubPage": "club.html?club=san-clemente-red",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "San Diego Shores",
@@ -2052,10 +2667,19 @@
         "bestWinClean": "Vanguard A12-11",
         "gamesLatest": 5,
         "teamPage": "team.html?team=san-diego-shores-a",
-        "clubPage": "club.html?club=san-diego-shores"
+        "clubPage": "club.html?club=san-diego-shores",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=san-diego-shores"
+    "clubPage": "club.html?club=san-diego-shores",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "San Francisco",
@@ -2080,10 +2704,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 5,
         "teamPage": "team.html?team=san-francisco-a",
-        "clubPage": "club.html?club=san-francisco"
+        "clubPage": "club.html?club=san-francisco",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=san-francisco"
+    "clubPage": "club.html?club=san-francisco",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Sand Canyon",
@@ -2108,10 +2741,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=sand-canyon-a",
-        "clubPage": "club.html?club=sand-canyon"
+        "clubPage": "club.html?club=sand-canyon",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=sand-canyon"
+    "clubPage": "club.html?club=sand-canyon",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Santa Barbara",
@@ -2136,10 +2778,19 @@
         "bestWinClean": "Clovis Red13-9",
         "gamesLatest": 5,
         "teamPage": "team.html?team=santa-barbara-a",
-        "clubPage": "club.html?club=santa-barbara"
+        "clubPage": "club.html?club=santa-barbara",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=santa-barbara"
+    "clubPage": "club.html?club=santa-barbara",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Santa Cruz",
@@ -2164,10 +2815,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=santa-cruz-a",
-        "clubPage": "club.html?club=santa-cruz"
+        "clubPage": "club.html?club=santa-cruz",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=santa-cruz"
+    "clubPage": "club.html?club=santa-cruz",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Set",
@@ -2192,10 +2852,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=set-a",
-        "clubPage": "club.html?club=set"
+        "clubPage": "club.html?club=set",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=set"
+    "clubPage": "club.html?club=set",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Sharks",
@@ -2220,10 +2889,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=sharks-a",
-        "clubPage": "club.html?club=sharks"
+        "clubPage": "club.html?club=sharks",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=sharks"
+    "clubPage": "club.html?club=sharks",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Shore Aquatics",
@@ -2248,10 +2926,19 @@
         "bestWinClean": "Pride A10-6",
         "gamesLatest": 5,
         "teamPage": "team.html?team=shore-aquatics-a",
-        "clubPage": "club.html?club=shore-aquatics"
+        "clubPage": "club.html?club=shore-aquatics",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=shore-aquatics"
+    "clubPage": "club.html?club=shore-aquatics",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Skip",
@@ -2276,10 +2963,19 @@
         "bestWinClean": "LAWPC A5-4",
         "gamesLatest": 5,
         "teamPage": "team.html?team=skip-a",
-        "clubPage": "club.html?club=skip"
+        "clubPage": "club.html?club=skip",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=skip"
+    "clubPage": "club.html?club=skip",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "South Coast",
@@ -2304,7 +3000,11 @@
         "bestWinClean": "CDM A4.7-4.6",
         "gamesLatest": 5,
         "teamPage": "team.html?team=south-coast-a",
-        "clubPage": "club.html?club=south-coast"
+        "clubPage": "club.html?club=south-coast",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       },
       {
         "postRank": 53,
@@ -2322,7 +3022,11 @@
         "bestWinClean": "Vanguard B7-5",
         "gamesLatest": 5,
         "teamPage": "team.html?team=south-coast-b",
-        "clubPage": "club.html?club=south-coast"
+        "clubPage": "club.html?club=south-coast",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       },
       {
         "postRank": 91,
@@ -2340,10 +3044,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=south-coast-c",
-        "clubPage": "club.html?club=south-coast"
+        "clubPage": "club.html?club=south-coast",
+        "logo": "",
+        "primaryColor": "#0B2E63",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       }
     ],
-    "clubPage": "club.html?club=south-coast"
+    "clubPage": "club.html?club=south-coast",
+    "logo": "",
+    "primaryColor": "#0B2E63",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "pending",
+    "source": ""
   },
   {
     "club": "Stanford",
@@ -2368,7 +3081,11 @@
         "bestWinClean": "CDM A11-10",
         "gamesLatest": 5,
         "teamPage": "team.html?team=stanford-a",
-        "clubPage": "club.html?club=stanford"
+        "clubPage": "club.html?club=stanford",
+        "logo": "",
+        "primaryColor": "#8C1515",
+        "secondaryColor": "#FFFFFF",
+        "logoStatus": "pending"
       },
       {
         "postRank": 44,
@@ -2386,7 +3103,11 @@
         "bestWinClean": "Rose Bowl A11-9",
         "gamesLatest": 5,
         "teamPage": "team.html?team=stanford-b",
-        "clubPage": "club.html?club=stanford"
+        "clubPage": "club.html?club=stanford",
+        "logo": "",
+        "primaryColor": "#8C1515",
+        "secondaryColor": "#FFFFFF",
+        "logoStatus": "pending"
       },
       {
         "postRank": 64,
@@ -2404,10 +3125,19 @@
         "bestWinClean": "North Irvine B12-11",
         "gamesLatest": 5,
         "teamPage": "team.html?team=stanford-c",
-        "clubPage": "club.html?club=stanford"
+        "clubPage": "club.html?club=stanford",
+        "logo": "",
+        "primaryColor": "#8C1515",
+        "secondaryColor": "#FFFFFF",
+        "logoStatus": "pending"
       }
     ],
-    "clubPage": "club.html?club=stanford"
+    "clubPage": "club.html?club=stanford",
+    "logo": "",
+    "primaryColor": "#8C1515",
+    "secondaryColor": "#FFFFFF",
+    "logoStatus": "pending",
+    "source": ""
   },
   {
     "club": "Supreme",
@@ -2432,10 +3162,19 @@
         "bestWinClean": "680 C11-10",
         "gamesLatest": 5,
         "teamPage": "team.html?team=supreme-a",
-        "clubPage": "club.html?club=supreme"
+        "clubPage": "club.html?club=supreme",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=supreme"
+    "clubPage": "club.html?club=supreme",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Temple City",
@@ -2460,10 +3199,19 @@
         "bestWinClean": "CC United B11-8",
         "gamesLatest": 5,
         "teamPage": "team.html?team=temple-city-a",
-        "clubPage": "club.html?club=temple-city"
+        "clubPage": "club.html?club=temple-city",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=temple-city"
+    "clubPage": "club.html?club=temple-city",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Titans",
@@ -2488,10 +3236,19 @@
         "bestWinClean": "CVU A10-6",
         "gamesLatest": 5,
         "teamPage": "team.html?team=titans-a",
-        "clubPage": "club.html?club=titans"
+        "clubPage": "club.html?club=titans",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=titans"
+    "clubPage": "club.html?club=titans",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Tri-Valley Tritons",
@@ -2516,10 +3273,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=tri-valley-tritons-a",
-        "clubPage": "club.html?club=tri-valley-tritons"
+        "clubPage": "club.html?club=tri-valley-tritons",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=tri-valley-tritons"
+    "clubPage": "club.html?club=tri-valley-tritons",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Trilogy",
@@ -2544,10 +3310,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=trilogy-a",
-        "clubPage": "club.html?club=trilogy"
+        "clubPage": "club.html?club=trilogy",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=trilogy"
+    "clubPage": "club.html?club=trilogy",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Triton Gold",
@@ -2572,10 +3347,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=triton-gold",
-        "clubPage": "club.html?club=triton-gold"
+        "clubPage": "club.html?club=triton-gold",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=triton-gold"
+    "clubPage": "club.html?club=triton-gold",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Trojan",
@@ -2600,10 +3384,19 @@
         "bestWinClean": "Rose Bowl A16-15",
         "gamesLatest": 5,
         "teamPage": "team.html?team=trojan-a",
-        "clubPage": "club.html?club=trojan"
+        "clubPage": "club.html?club=trojan",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=trojan"
+    "clubPage": "club.html?club=trojan",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   },
   {
     "club": "Vanguard",
@@ -2628,7 +3421,11 @@
         "bestWinClean": "North Irvine A11-5",
         "gamesLatest": 5,
         "teamPage": "team.html?team=vanguard-a",
-        "clubPage": "club.html?club=vanguard"
+        "clubPage": "club.html?club=vanguard",
+        "logo": "",
+        "primaryColor": "#111827",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       },
       {
         "postRank": 43,
@@ -2646,7 +3443,11 @@
         "bestWinClean": "680 B8.5-8.4",
         "gamesLatest": 5,
         "teamPage": "team.html?team=vanguard-b",
-        "clubPage": "club.html?club=vanguard"
+        "clubPage": "club.html?club=vanguard",
+        "logo": "",
+        "primaryColor": "#111827",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       },
       {
         "postRank": 66,
@@ -2664,10 +3465,19 @@
         "bestWinClean": "\u2014",
         "gamesLatest": 0,
         "teamPage": "team.html?team=vanguard-c",
-        "clubPage": "club.html?club=vanguard"
+        "clubPage": "club.html?club=vanguard",
+        "logo": "",
+        "primaryColor": "#111827",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "pending"
       }
     ],
-    "clubPage": "club.html?club=vanguard"
+    "clubPage": "club.html?club=vanguard",
+    "logo": "",
+    "primaryColor": "#111827",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "pending",
+    "source": ""
   },
   {
     "club": "Vegas Renegades",
@@ -2692,9 +3502,18 @@
         "bestWinClean": "Alameda A16-10",
         "gamesLatest": 5,
         "teamPage": "team.html?team=vegas-renegades-a",
-        "clubPage": "club.html?club=vegas-renegades"
+        "clubPage": "club.html?club=vegas-renegades",
+        "logo": "",
+        "primaryColor": "#063A79",
+        "secondaryColor": "#F7B500",
+        "logoStatus": "monogram"
       }
     ],
-    "clubPage": "club.html?club=vegas-renegades"
+    "clubPage": "club.html?club=vegas-renegades",
+    "logo": "",
+    "primaryColor": "#063A79",
+    "secondaryColor": "#F7B500",
+    "logoStatus": "monogram",
+    "source": ""
   }
 ]
