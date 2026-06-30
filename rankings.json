@@ -60,10 +60,10 @@
     "gamesLatest": 5,
     "teamPage": "team.html?team=mission-a",
     "clubPage": "club.html?club=mission",
-    "logo": "",
-    "primaryColor": "#0B2E63",
+    "logo": "https://img1.wsimg.com/isteam/ip/f6635e4f-2c15-42e5-8d33-2382640ddcf6/Mission_Water_Polo_Club_Horizontal%20Log-d555cb0.png/%3A/rs%3Dh%3A100%2Ccg%3Atrue%2Cm/qt%3Dq%3A100/ll",
+    "primaryColor": "#111111",
     "secondaryColor": "#F7B500",
-    "logoStatus": "pending"
+    "logoStatus": "verified"
   },
   {
     "postRank": 4,
@@ -456,10 +456,10 @@
     "gamesLatest": 5,
     "teamPage": "team.html?team=mission-b",
     "clubPage": "club.html?club=mission",
-    "logo": "",
-    "primaryColor": "#0B2E63",
+    "logo": "https://img1.wsimg.com/isteam/ip/f6635e4f-2c15-42e5-8d33-2382640ddcf6/Mission_Water_Polo_Club_Horizontal%20Log-d555cb0.png/%3A/rs%3Dh%3A100%2Ccg%3Atrue%2Cm/qt%3Dq%3A100/ll",
+    "primaryColor": "#111111",
     "secondaryColor": "#F7B500",
-    "logoStatus": "pending"
+    "logoStatus": "verified"
   },
   {
     "postRank": 22,

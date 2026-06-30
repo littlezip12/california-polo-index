@@ -1,11 +1,11 @@
-# CPI Logo Pass
+# CPI Logo + Team Page Polish Pass
 
 Updates:
-- Club-level logo/color metadata added.
-- Patriot and NorCal logos wired from official club sites.
-- La Jolla United and SD Dons official sites found but logo image still needs confirmation.
-- Same club logo/color metadata inherits across A/B/C/D teams.
-- Dynamic team and club pages use club-color hero backdrops where metadata exists.
-- `data/logo_map.csv` tracks verification status and source URLs.
+- Logos now render on homepage Top 8 and 14U Boys Top 8 cards.
+- Team pages have a larger logo treatment and club-color hero backdrop.
+- Mission logo added from official Mission WPC site.
+- Patriot and NorCal remain wired.
+- La Jolla United and SD Dons remain pending confirmation.
+- Logo metadata still applies at club level, so A/B/C/D teams inherit automatically.
 
 Upload/replace all files at the GitHub repository root and commit.
